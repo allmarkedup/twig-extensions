@@ -1,2 +1,4 @@
-twig-extensions
+Twig Extensions
 ===============
+
+A few handy extensions for Twig.

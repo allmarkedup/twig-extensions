@@ -1,0 +1,20 @@
+{
+    "name": "clearleft/twig-extensions",
+    "description": "Extensions for the Twig templating language.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mark Perkins",
+            "email": "mark@clearleft.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "erusev/parsedown": "~1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Clearleft\\Twig\\": "src/"
+        }
+    }
+}
