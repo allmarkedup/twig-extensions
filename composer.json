@@ -1,6 +1,6 @@
 {
     "name": "clearleft/twig-extensions",
-    "description": "Extensions for the Twig templating language.",
+    "description": "A few handy extensions for Twig.",
     "license": "MIT",
     "authors": [
         {
@@ -8,7 +8,6 @@
             "email": "mark@clearleft.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "erusev/parsedown": "~1.1"
     },
