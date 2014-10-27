@@ -22,13 +22,12 @@ class TwigMarkdownExtension extends \Twig_Extension
     {
         
         return array(
-            'markdown' => new \Twig_Filter_Method($this, 'applyFilter'),
+            'markdown' => new \Twig_Filter_Method($this, 'applyFilter', array('is_safe' => array('html'))),
         );
     }
 
     public function applyFilter($str)
     {
-        $parser = new \Parsedown();
-        return $parser->parse($str);
+        return (new \Parsedown())->text($str);
     }
 }

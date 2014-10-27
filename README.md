@@ -50,3 +50,11 @@ _This sentence is emphasised_
 > And this is a quote.
 {% endmarkdown %}
 ```
+
+## Running tests
+
+Tests can be run using PHP Unit:
+
+```bash
+$ vendor/bin/phpunit 
+```
