@@ -58,3 +58,5 @@ Tests can be run using PHP Unit:
 ```bash
 $ vendor/bin/phpunit 
 ```
+
+The project also includes a [Grunt](http://gruntjs.com) watch task to run the PHP Unit tests when files are updated which you can use for your convenience.
