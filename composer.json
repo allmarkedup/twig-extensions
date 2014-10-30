@@ -1,11 +1,11 @@
 {
-    "name": "clearleft/twig-extensions",
+    "name": "allmarkedup/twig-extensions",
     "description": "A few handy extensions for Twig.",
     "license": "MIT",
     "authors": [
         {
             "name": "Mark Perkins",
-            "email": "mark@clearleft.com"
+            "email": "mark@allmarkedup.com"
         }
     ],
     "require": {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Clearleft\\Twig\\": "src/"
+            "Amu\\Twig\\": "src/"
         }
     }
 }

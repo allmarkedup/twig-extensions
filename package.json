@@ -1,13 +1,13 @@
 {
-  "name": "clearleft-twig-extensions",
+  "name": "twig-extensions",
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git@github.com:clearleft/twig-extensions.git"
+    "url": "git@github.com:allmarkedup/twig-extensions.git"
   },
-  "author": "Mark Perkins <mark@clearleft.com>",
+  "author": "Mark Perkins <mark@allmarkedup.com>",
   "bugs": {
-    "url": "https://github.com/clearleft/twig-extensions/issues"
+    "url": "https://github.com/allmarkedup/twig-extensions/issues"
   },
   "devDependencies": {
     "grunt": "^0.4.5",

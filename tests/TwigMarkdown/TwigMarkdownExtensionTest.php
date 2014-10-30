@@ -1,9 +1,9 @@
-<?php namespace Clearleft\Twig\TwigMarkdown;
+<?php namespace Amu\Twig\TwigMarkdown;
 
-use Clearleft\Twig\TwigMarkdown\TwigMarkdownExtension as MarkdownExtension;
+use Amu\Twig\TwigMarkdown\TwigMarkdownExtension as MarkdownExtension;
 
 /**
- * @author Mark Perkins <mark@clearleft.com>
+ * @author Mark Perkins <mark@Amu.com>
  */
 class MarkdownExtensionTest extends \PHPUnit_Framework_TestCase
 {

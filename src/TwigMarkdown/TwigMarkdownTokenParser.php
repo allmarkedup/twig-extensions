@@ -1,4 +1,4 @@
-<?php namespace Clearleft\Twig\TwigMarkdown;
+<?php namespace Amu\Twig\TwigMarkdown;
 
 class TwigMarkdownTokenParser extends \Twig_TokenParser
 {

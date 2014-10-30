@@ -11,7 +11,7 @@
          bootstrap="vendor/autoload.php"
 >
     <testsuites>
-        <testsuite name="Clearleft Twig Extensions Tests">
+        <testsuite name="Amu Twig Extensions Tests">
             <directory>./tests/</directory>
         </testsuite>
     </testsuites>

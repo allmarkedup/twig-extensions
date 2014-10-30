@@ -1,4 +1,4 @@
-<?php namespace Clearleft\Twig\TwigMarkdown;
+<?php namespace Amu\Twig\TwigMarkdown;
 
 class TwigMarkdownExtension extends \Twig_Extension
 {
