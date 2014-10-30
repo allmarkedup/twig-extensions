@@ -20,7 +20,7 @@ Then load the required extension(s) into the Twig environment when setting it up
 ```php
 <?php
 use Amu\Twig\TwigMarkdownExtension as MarkdownExtension;
-...
+//...
 $twig = new Twig_Environment($loader, $options);
 $twig->addExtension(new MarkdownExtension());
 ```
